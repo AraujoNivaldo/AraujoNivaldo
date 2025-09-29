@@ -5,7 +5,7 @@
 
 ### About me
 
-- 🔭 Currently working at Softlog Software: Creating of tests for ERP system
+- 🔭 Currently working at Orange Testing
 - 🌱 Currently learing about: Test automation
 - ⚡ 2 years of experience in Quality Assurance
 - 💬 It’s not enough to work on my machine — it has to work for everyone
